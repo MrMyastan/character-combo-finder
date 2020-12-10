@@ -4,4 +4,4 @@ Ya know those memes where they take a scene from a movie with subtitles (usually
 
 ![So this is how ~~l~~i~~berty~~ die~~s~~. With ~~thunderous~~ appl~~aus~~e](https://preview.redd.it/j8xlywrm2ud31.jpg?width=640&crop=smart&auto=webp&s=1761ae3bd1c8447f67a781f410f648bb789fc801)
 
-Well I was trying to make those with my friend a couple days ago and I had the bright idea to write a program to find every possible permutation of blanked and non-blanked characters for a string of text to make finding these easier. The code here is what I wrote. 
+Well I was trying to make those with my friend a couple days ago and I had the bright idea to write a program to find every possible permutation of blanked and non-blanked characters for a string of text to make finding these easier. main.py is the original code I threw together in like 20 minutes, I might add a couple other versions I and others came up with later.
